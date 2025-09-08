@@ -1,4 +1,3 @@
-select 1 from dual;
 -------------------------
 --after noon
 select 1 from dual
